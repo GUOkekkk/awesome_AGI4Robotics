@@ -14,7 +14,7 @@ There is wide agreement among artificial intelligence researchers that intellige
 and, if necessary, integrate all these skills in completion of any given goal. Other important capabilities include:
 - input as the ability to sense (e.g. see, hear, etc.), and
 - output as the ability to act (e.g. move and manipulate objects, change location to explore, etc.)
-in environments where the above are possible.[18] This includes the ability to detect and respond to hazard.[19] Many interdisciplinary approaches to intelligence (e.g. cognitive science, computational intelligence, and decision making) consider additional traits such as imagination (taken as the ability to form mental images and concepts that were not programmed in) and autonomy.
+in environments where the above are possible. This includes the ability to detect and respond to hazard. Many interdisciplinary approaches to intelligence (e.g. cognitive science, computational intelligence, and decision making) consider additional traits such as imagination (taken as the ability to form mental images and concepts that were not programmed in) and autonomy.
 
 ## Common AGI Model
 #### GPT
