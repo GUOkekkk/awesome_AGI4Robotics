@@ -38,5 +38,7 @@ in environments where the above are possible.[18] This includes the ability to d
 
 #### [Lossless Adaptation of Pretrained Vision Models for Robotic Manipulation](https://sites.google.com/view/robo-adapters)
 
+#### [ChatGPT for Robotics: Design Principles and Model Abilities](https://www.microsoft.com/en-us/research/uploads/prod/2023/02/ChatGPT___Robotics.pdf)
+
 ## Robot Simulation Platform
 #### [Mujoco_wasm](https://github.com/zalo/mujoco_wasm)
