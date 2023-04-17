@@ -1,5 +1,5 @@
 # awesome_AGI4Robotics
-I think that, in a way, AGI(Artificial General Intelligence) will be the future of AI, and when it comes to robotics it is inseparable from AI, so this repository was created to document some of the research and applications of AGI in robotics. I will try to keep up with the cutting edge research and make a summary.
+I think that, in a way, AGI(Artificial General Intelligence) will be the future of AI, and when it comes to robotics it is inseparable from AI, so this repository was created to document some of the research and applications of AGI in robotics. I will try to keep up with the cutting edge research and make a summary. It is mainly for myself as a personal study  repository.
 
 ## AGI(Artificial General Intelligence)
 [AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence#) is also called strong AI, full AI, or general intelligent action, although some academic sources reserve the term "strong AI" for computer programs that experience sentience or consciousness. Strong AI contrasts with weak AI (or narrow AI), which is not intended to have general cognitive abilities but is designed to solve exactly one problem. 
