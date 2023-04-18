@@ -29,6 +29,9 @@ in environments where the above are possible. This includes the ability to detec
 - [SAM + Stable Diffusion] ?
 - [SAM + CLIP] ?
 
+#### DINOv2
+- [demo](https://dinov2.metademolab.com/)
+- [paper](https://arxiv.org/pdf/2304.07193.pdf)
 ## AGI and Robot
 #### [Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?](https://scontent-cdg4-2.xx.fbcdn.net/v/t39.2365-6/10000000_588381373355765_6700032118142617342_n.pdf?_nc_cat=109&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=YF3hjxn-xv4AX_99jqJ&_nc_ht=scontent-cdg4-2.xx&oh=00_AfAta1TUSMvPrJUWWdefFaVm69hZBbzFCAF9-11tkFlgog&oe=644194EE) 
 
