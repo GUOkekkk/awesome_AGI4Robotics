@@ -28,6 +28,7 @@ in environments where the above are possible. This includes the ability to detec
 - [paper](https://arxiv.org/pdf/2304.02643.pdf)
 - [SAM + Stable Diffusion] ?
 - [SAM + CLIP] ?
+- [SAM-Adapter](https://tianrun-chen.github.io/SAM-Adaptor/static/pdfs/Adaptor.pdf)
 
 #### DINOv2
 - [demo](https://dinov2.metademolab.com/)
