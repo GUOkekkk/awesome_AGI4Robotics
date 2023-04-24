@@ -44,6 +44,8 @@ in environments where the above are possible. This includes the ability to detec
 
 #### [ChatGPT for Robotics: Design Principles and Model Abilities](https://www.microsoft.com/en-us/research/uploads/prod/2023/02/ChatGPT___Robotics.pdf)
 
+#### [Unifying learning from preferences and demonstration via a ranking game for imitation learning](https://www.microsoft.com/en-us/research/blog/unifying-learning-from-preferences-and-demonstration-via-a-ranking-game-for-imitation-learning/)
+
 ## Robot Simulation Platform
 #### [Mujoco_wasm](https://github.com/zalo/mujoco_wasm)
 
