@@ -46,6 +46,8 @@ in environments where the above are possible. This includes the ability to detec
 
 #### [Unifying learning from preferences and demonstration via a ranking game for imitation learning](https://www.microsoft.com/en-us/research/blog/unifying-learning-from-preferences-and-demonstration-via-a-ranking-game-for-imitation-learning/)
 
+#### [Deep Reinforcement Learning](https://sites.google.com/view/op3-soccer/home?authuser=0)
+
 ## Robot Simulation Platform
 #### [Mujoco_wasm](https://github.com/zalo/mujoco_wasm)
 
