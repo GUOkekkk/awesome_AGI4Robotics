@@ -50,6 +50,8 @@ in environments where the above are possible. This includes the ability to detec
 
 #### [Deep Reinforcement Learning on Walk(Unity+ML-Agents)](https://www.youtube.com/watch?v=L_4BPjLBF4E)
 
+#### [ROSGPT](https://github.com/aniskoubaa/rosgpt/)
+
 ## Robot Simulation Platform
 #### [Mujoco_wasm](https://github.com/zalo/mujoco_wasm)
 
