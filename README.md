@@ -54,6 +54,7 @@ in environments where the above are possible. This includes the ability to detec
 
 ## Robot Simulation Platform
 #### [Mujoco_wasm](https://github.com/zalo/mujoco_wasm)
+#### [Pybullet](https://pybullet.org/wordpress/)
 
 ## Dateset
 #### [CortexBench](https://github.com/facebookresearch/eai-vc/blob/main/cortexbench/DATASETS.md)
