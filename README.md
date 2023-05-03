@@ -52,6 +52,8 @@ in environments where the above are possible. This includes the ability to detec
 
 #### [ROSGPT](https://github.com/aniskoubaa/rosgpt/)
 
+#### [RLBench](https://github.com/stepjam/RLBench)
+
 ## Robot Simulation Platform
 #### [Mujoco_wasm](https://github.com/zalo/mujoco_wasm)
 #### [Pybullet](https://pybullet.org/wordpress/)
