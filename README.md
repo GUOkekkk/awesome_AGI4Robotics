@@ -67,7 +67,8 @@ in environments where the above are possible. This includes the ability to detec
 #### [Pybullet](https://pybullet.org/wordpress/)
 
 ## Sim2Real
-#### [I2o](https://www.joannetruong.com/projects/i2o.html)
+#### [Basic](https://zhuanlan.zhihu.com/p/510951914)
+#### [I2O](https://www.joannetruong.com/projects/i2o.html)
 #### [Rethinking Sim2Real: Lower Fidelity Simulation Leads to Higher Sim2Real Transfer in Navigation](http://www.joannetruong.com/projects/kin2dyn.html)
 
 ## Dateset
