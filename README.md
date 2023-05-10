@@ -35,7 +35,7 @@ in environments where the above are possible. This includes the ability to detec
 - [paper](https://arxiv.org/pdf/2304.07193.pdf)
 
 #### ImageBind
-- [demo](https://ai.facebook.com/blog/imagebind-six-modalities-binding-ai/)
+- [demo](https://imagebind.metademolab.com/demo)
 - [paper](https://arxiv.org/abs/2305.05665)
 
 
