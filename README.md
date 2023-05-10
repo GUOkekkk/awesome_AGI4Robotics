@@ -61,9 +61,14 @@ in environments where the above are possible. This includes the ability to detec
 #### [RLBench](https://github.com/stepjam/RLBench)
 
 #### [RT-1: Robotics Transformer](https://robotics-transformer.github.io/)
+
 ## Robot Simulation Platform
 #### [Mujoco_wasm](https://github.com/zalo/mujoco_wasm)
 #### [Pybullet](https://pybullet.org/wordpress/)
+
+## Sim2Real
+#### [I2o](https://www.joannetruong.com/projects/i2o.html)
+#### [Rethinking Sim2Real: Lower Fidelity Simulation Leads to Higher Sim2Real Transfer in Navigation](http://www.joannetruong.com/projects/kin2dyn.html)
 
 ## Dateset
 #### [CortexBench](https://github.com/facebookresearch/eai-vc/blob/main/cortexbench/DATASETS.md)
