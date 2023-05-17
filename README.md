@@ -73,3 +73,8 @@ in environments where the above are possible. This includes the ability to detec
 
 ## Dateset
 #### [CortexBench](https://github.com/facebookresearch/eai-vc/blob/main/cortexbench/DATASETS.md)
+
+## Hardware Support
+#### [NVIDIA Isaac ROS](https://developer.nvidia.com/blog/build-high-performance-robotic-applications-with-nvidia-isaac-ros-developer-preview-3/)
+
+#### [Flowstate](https://intrinsic.ai/)
