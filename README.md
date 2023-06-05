@@ -67,6 +67,7 @@ in environments where the above are possible. This includes the ability to detec
 #### [Pybullet](https://pybullet.org/wordpress/)
 #### [Mujoco_menagerie](https://github.com/deepmind/mujoco_menagerie)
 #### [Dynamic Environment](https://github.com/eliabntt/GRADE-RR/)
+#### [CoppeliaSim](https://www.coppeliarobotics.com/)
 
 ## Sim2Real
 #### [Basic](https://zhuanlan.zhihu.com/p/510951914)
@@ -80,3 +81,6 @@ in environments where the above are possible. This includes the ability to detec
 #### [NVIDIA Isaac ROS](https://developer.nvidia.com/blog/build-high-performance-robotic-applications-with-nvidia-isaac-ros-developer-preview-3/)
 
 #### [Flowstate](https://intrinsic.ai/)
+
+## Software Support
+#### [OpenAI Gym](https://www.analyticsvidhya.com/blog/2019/04/introduction-deep-q-learning-python/)
