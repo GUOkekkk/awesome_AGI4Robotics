@@ -71,7 +71,7 @@ in environments where the above are possible. This includes the ability to detec
 
 ## Sim2Real
 #### [Basic](https://zhuanlan.zhihu.com/p/510951914)
-#### [I2O](https://www.joannetruong.com/projects/i2o.html)
+#### [IndoorSim-to-OutdoorReal](https://www.joannetruong.com/projects/i2o.html)
 #### [Rethinking Sim2Real: Lower Fidelity Simulation Leads to Higher Sim2Real Transfer in Navigation](http://www.joannetruong.com/projects/kin2dyn.html)
 
 ## Dateset
@@ -80,8 +80,7 @@ in environments where the above are possible. This includes the ability to detec
 ## Hardware Support
 #### [NVIDIA Isaac ROS](https://developer.nvidia.com/blog/build-high-performance-robotic-applications-with-nvidia-isaac-ros-developer-preview-3/)
 
-#### [Flowstate](https://intrinsic.ai/)
-
 ## Software Support
 #### [OpenAI Gym](https://www.analyticsvidhya.com/blog/2019/04/introduction-deep-q-learning-python/)
 #### [Pypose: PyTorch-based robotics-oriented coonecting deep learning with physics-based optimization](https://sairlab.org/pypose/)
+#### [Flowstate](https://intrinsic.ai/)
