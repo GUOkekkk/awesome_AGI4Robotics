@@ -84,3 +84,4 @@ in environments where the above are possible. This includes the ability to detec
 
 ## Software Support
 #### [OpenAI Gym](https://www.analyticsvidhya.com/blog/2019/04/introduction-deep-q-learning-python/)
+#### [Pypose: PyTorch-based robotics-oriented coonecting deep learning with physics-based optimization](https://sairlab.org/pypose/)
