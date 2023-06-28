@@ -62,6 +62,9 @@ in environments where the above are possible. This includes the ability to detec
 
 #### [RT-1: Robotics Transformer](https://robotics-transformer.github.io/)
 
+#### [Embodied AI](https://medium.com/machinevision/overview-of-embodied-artificial-intelligence-b7f19d18022)
+For me, the Embodied AI is more like the robot&AI but in a simulation platform.
+
 ## Robot Simulation Platform
 #### [Mujoco_wasm](https://github.com/zalo/mujoco_wasm)
 #### [Pybullet](https://pybullet.org/wordpress/)
