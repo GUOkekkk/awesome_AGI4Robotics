@@ -65,6 +65,8 @@ in environments where the above are possible. This includes the ability to detec
 #### [Embodied AI](https://medium.com/machinevision/overview-of-embodied-artificial-intelligence-b7f19d18022)
 For me, the Embodied AI is more like the robot&AI but in a simulation platform.
 
+#### [RoboAgent](https://robopen.github.io/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=research&utm_content=video)
+
 ## Robot Simulation Platform
 #### [Mujoco_wasm](https://github.com/zalo/mujoco_wasm)
 #### [Pybullet](https://pybullet.org/wordpress/)
